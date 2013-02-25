@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+#searchBox
+{
+	
+	-moz-border-radius: 60px;
+	border-radius: 60px;
+	
+	border-width: 1px;
+	border-style: solid;
+	
+}
+	

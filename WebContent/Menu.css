@@ -1,0 +1,58 @@
+@CHARSET "UTF-8";
+html, body
+{
+	background-image:url('cubes.png');
+	
+    height: 100%;
+}
+#nav
+{
+    padding:0;
+}
+#nav li
+{
+    display:inline;
+}
+#nav li a
+{  
+   font-family:Arial;
+   font-size:12px;
+   text-decoration: none;
+   float:left;
+   padding:10px;
+   background-color: #333333;
+   color:#ffffff;
+   border-bottom:1px;
+   border-bottom-color:#000000;
+   border-bottom-style:solid;
+}
+
+#nav li a:hover
+{
+   background-color:#9B1C26;
+   padding-bottom:12px;
+   border-bottom:2px;
+   border-bottom-color:#000000;
+   border-bottom-style:solid;
+   margin:-1px;
+}
+ #user
+{
+	position:absolute;
+	top:150px;
+	
+}
+
+#newMessage
+{
+	position:absolute;
+	top:170px;
+	left:550px
+}
+#Searchmessage
+{
+	position:absolute;
+	top:150px;
+	left:300px
+}
+
